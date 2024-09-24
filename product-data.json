@@ -68,5 +68,12 @@
     "fat": 2,
     "carbs": 76,
     "calories": 367
+  },
+  {
+    "name": "クッキー",
+    "protein": 7.5,
+    "fat": 2,
+    "carbs": 76,
+    "calories": 264
   }
 ]
