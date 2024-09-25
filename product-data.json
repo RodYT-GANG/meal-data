@@ -77,10 +77,24 @@
     "calories": 264
   },
   {
-    "name": "焼きそば",
-    "protein": 7.5,
-    "fat": 2,
-    "carbs": 76,
-    "calories": 264
+    "name": "明治　たけのこの里 70g",
+    "protein": 5.5,
+    "fat": 22.8,
+    "carbs": 38.9,
+    "calories": 383
+  },
+  {
+    "name": "亀田製菓 パウダー250%ハピーターン 53g",
+    "protein": 2.9,
+    "fat": 12.8,
+    "carbs": 35.0,
+    "calories": 267
+  },
+  {
+    "name": "ロッテ ガーナ 50g",
+    "protein": 3.8,
+    "fat": 16.6,
+    "carbs": 28.3,
+    "calories": 278
   }
 ]
