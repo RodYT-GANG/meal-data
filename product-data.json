@@ -19,5 +19,125 @@
     "fat": 16.6,
     "carbs": 28.3,
     "calories": 278
+  },
+  {
+    "name": "UHA味覚糖 コロログミ ぶどう味 40g",
+    "protein": 0.5,
+    "fat": 0.2,
+    "carbs": 31.6,
+    "calories": 130
+  },
+  {
+    "name": "明治 果汁グミ ぶどう 51g",
+    "protein": 1.0,
+    "fat": 0.1,
+    "carbs": 35.7,
+    "calories": 171
+  },
+  {
+    "name": "HARIBO ハリボー ゴールドベア 100g",
+    "protein": 7.0,
+    "fat": 0.0,
+    "carbs": 77.0,
+    "calories": 343
+  },
+  {
+    "name": "森永 ダースミルクチョコレート 12粒 43g",
+    "protein": 2.4,
+    "fat": 14.2,
+    "carbs": 25.8,
+    "calories": 252
+  },
+  {
+    "name": "明治 アーモンドチョコレート 88g",
+    "protein": 9.1,
+    "fat": 28.0,
+    "carbs": 44.8,
+    "calories": 518
+  },
+  {
+    "name": "グリコ ポッキー チョコレート 72g",
+    "protein": 5.0,
+    "fat": 12.9,
+    "carbs": 49.2,
+    "calories": 369
+  },
+  {
+    "name": "森永製菓 ハイチュウ グレープ 50g",
+    "protein": 0.2,
+    "fat": 0.4,
+    "carbs": 34.0,
+    "calories": 180
+  },
+  {
+    "name": "スニッカーズ 1本 50g",
+    "protein": 4.3,
+    "fat": 12.5,
+    "carbs": 29.8,
+    "calories": 250
+  },
+  {
+    "name": "ネスレ キットカット ミニ 12枚 126g",
+    "protein": 7.6,
+    "fat": 22.0,
+    "carbs": 60.8,
+    "calories": 632
+  },
+  {
+    "name": "ロッテ コアラのマーチ チョコ 48g",
+    "protein": 2.7,
+    "fat": 11.0,
+    "carbs": 33.2,
+    "calories": 225
+  },
+  {
+    "name": "不二家 カントリーマアム(バニラ&ココア) 16枚 152g",
+    "protein": 9.6,
+    "fat": 31.0,
+    "carbs": 104.0,
+    "calories": 678
+  },
+  {
+    "name": "ロッテ チョコパイ 6個入り 180g",
+    "protein": 6.2,
+    "fat": 24.2,
+    "carbs": 61.4,
+    "calories": 432
+  },
+  {
+    "name": "カルビー じゃがりこ サラダ 60g",
+    "protein": 3.6,
+    "fat": 16.4,
+    "carbs": 40.5,
+    "calories": 298
+  },
+  {
+    "name": "明治 ミルクチョコレート 50g",
+    "protein": 3.8,
+    "fat": 18.4,
+    "carbs": 26.7,
+    "calories": 283
+  },
+  {
+    "name": "アルフォートミニチョコレート 12個",
+    "protein": 5.1,
+    "fat": 17.5,
+    "carbs": 34.8,
+    "calories": 313
+  },
+  {
+    "name": "アルフォート 1枚 10g",
+    "protein": 0.8,
+    "fat": 2.8,
+    "carbs": 6.1,
+    "calories": 52
+  },
+  {
+    "name": "プレッツェルピート プレッツェルソルトキャラメル 100g",
+    "protein": 7.8,
+    "fat": 11.0,
+    "carbs": 72.0,
+    "calories": 424
   }
 ]
+
